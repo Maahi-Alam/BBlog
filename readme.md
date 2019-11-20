@@ -1,40 +1,33 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<h1 align="center">Blog Type Web Application</h1>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
-## About Laravel
+##  user Create
+![create user](https://user-images.githubusercontent.com/22402622/69271931-fc8ebb80-0bff-11ea-989d-0acdb1b731e5.JPG)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+## All users
+![all users](https://user-images.githubusercontent.com/22402622/69271964-057f8d00-0c00-11ea-93a2-3d2f66e076e5.JPG)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Category Create
+![create category](https://user-images.githubusercontent.com/22402622/69271982-0adcd780-0c00-11ea-95cf-3dad55a7f982.JPG)
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+## All Categories
+![all category](https://user-images.githubusercontent.com/22402622/69272000-13351280-0c00-11ea-8c21-197588f925d5.JPG)
 
-## Learning Laravel
+## Tag Create
+![create tag](https://user-images.githubusercontent.com/22402622/69272042-2811a600-0c00-11ea-8ef3-9e7ecd1a9588.JPG)
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+## All Tags
+![all tag](https://user-images.githubusercontent.com/22402622/69272059-2f38b400-0c00-11ea-92eb-1b5e0df1914d.JPG)
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+## post Create
+![create post](https://user-images.githubusercontent.com/22402622/69272072-352e9500-0c00-11ea-8f73-345db77a1139.JPG)
 
-## Contributing
+## All posts
+![all posts](https://user-images.githubusercontent.com/22402622/69272080-3a8bdf80-0c00-11ea-8c34-236ba027ea3d.JPG)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
+## Front view 1
+![mainn](https://user-images.githubusercontent.com/22402622/69272306-a3735780-0c00-11ea-99fd-3b3e2c648040.JPG)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Front view 2
+![main](https://user-images.githubusercontent.com/22402622/69272320-a8d0a200-0c00-11ea-8224-e69d9c54c0b9.JPG)
